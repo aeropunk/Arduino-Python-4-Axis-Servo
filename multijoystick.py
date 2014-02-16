@@ -40,7 +40,7 @@ except:
 	quit()
 
 # Allow for multiple joysticks
-joy = []
+joy = [] #<-- Question
 
 # Handle joystick event
 def handleJoyEvent(e):
